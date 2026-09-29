@@ -1,0 +1,7 @@
+{
+  "apiBase": "https://your-llm-provider.example/v1",
+  "apiKey": "replace-with-your-api-key",
+  "model": "glm-5.3",
+  "fallbackModel": "deepseek-v4-pro",
+  "publicUrl": "http://localhost:8787"
+}
